@@ -10,5 +10,9 @@
   {
     "name": "💀 Russisch",
     "file": "russian.py"
+  },
+  {
+    "name": "Test",
+    "file": "test.py"
   }
 ]
