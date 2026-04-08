@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "🎯 Zahlen Game",
+    "file": "number_game.py"
+  },
+  {
+    "name": "🎰 Roulette",
+    "file": "roulette.py"
+  },
+  {
+    "name": "💀 Russisch",
+    "file": "russian.py"
+  }
+]
