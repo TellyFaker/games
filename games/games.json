@@ -14,5 +14,9 @@
   {
     "name": "Test",
     "file": "test.py"
+  },
+  {
+    "name": "Coinflip",
+    "file": "coinflip.py"
   }
 ]
