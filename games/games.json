@@ -17,6 +17,6 @@
   },
   {
     "name": "Coinflip",
-    "file": "coinflip.py"
+    "file": "zcoinflip.py"
   }
 ]
